@@ -42,11 +42,11 @@
 
 1. **Clone the repository**:
    \`\`\`sh
-   git clone https://github.com/yourusername/Perkemon.git
+   git clone https://github.com/devangk003/Custome-Reward-Points-System-JAVA-Perkemon.git
    \`\`\`
 2. **Navigate to the project directory**:
    \`\`\`sh
-   cd Perkemon
+   cd Custome-Reward-Points-System-JAVA-Perkemon
    \`\`\`
 3. **Compile the project**:
    - If using an IDE, simply open the project and build it.
@@ -81,15 +81,6 @@
 | Elite       | 699                       | 15%               | 100                            |
 | Legend      | 999                       | 20%               | 150                            |
 
-## Screenshots
-
-### Main Menu
-
-![Main Menu](screenshots/main_menu.png)
-
-### Customer Menu
-
-![Customer Menu](screenshots/customer_menu.png)
 
 ## Contributing
 
